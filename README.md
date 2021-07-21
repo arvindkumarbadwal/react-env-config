@@ -40,13 +40,13 @@ env('APP_VERSION', '1.0.0') // Or env('app_version', '1.0.0')
 
 env('NODE_ENV') // Or  env('node_env')
 // Output: development
-```
+
 hasEnv('APP_NAME')
 // Output: true
 
 hasEnv('APP_VERSION')
 // Output: false
-
+```
 
 
 ## Contributing
